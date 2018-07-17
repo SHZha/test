@@ -2,3 +2,4 @@ git登录用户名和密码
 用户名：微软邮箱
 密码：shzha0824
 git push用法：git push git@github.com:SHZha/test(远程库名)
+	       或者git push origin master(前提先使用git remote add origin git@github.com:SHZha/test关联本地库和远程库)
